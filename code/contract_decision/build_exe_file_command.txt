@@ -1,0 +1,1 @@
+pyinstaller -wF --add-data "player_data.csv;." --add-data "../../data/FA_rankings_2023.csv;." --add-data "contract_data.csv;." contract_main.py

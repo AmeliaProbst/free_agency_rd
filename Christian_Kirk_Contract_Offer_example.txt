@@ -1,0 +1,59 @@
+Mooney Contract example based on 2021 contracts and season
+as if Mooney were a free agent
+10 most similar players based on grade and cluster
+22          Adam Thielen
+93           Tim Patrick
+33          Amari Cooper
+24            Mike Evans
+26         Brandin Cooks
+25     Odell Beckham Jr.
+40         Tyler Lockett
+3       Emmanuel Sanders
+36        Nelson Agholor
+142     Marquez Callaway
+Example APY contracts
+25th percentile: 7250000.0
+50th percentile: 16200000.0
+75th percentile: 17062500.0
+100th percentile: 19820000.0
+
+
+Kirk Contract example based on 2021 contracts and season
+
+10 most similar players based on grade and cluster
+78       Chris Godwin
+19       Keenan Allen
+53         Tyler Boyd
+153     Jakobi Meyers
+58        Tyreek Hill
+193    Cedrick Wilson
+77        Cooper Kupp
+14       Cole Beasley
+144     Byron Pringle
+48     Adam Humphries
+
+Example APY contracts
+25th percentile: 2145500.0
+50th percentile: 9000000.0
+75th percentile: 15924750.0
+99th percentile: 19842750.0
+
+Kirk Contract example based on 2021 contracts and season (without UDFAs)
+
+10 most similar players based on grade and cluster
+78       Chris Godwin
+19       Keenan Allen
+53         Tyler Boyd
+58        Tyreek Hill
+193    Cedrick Wilson
+77        Cooper Kupp
+14       Cole Beasley
+144     Byron Pringle
+48     Adam Humphries
+98        Zach Pascal
+
+Example APY contracts
+25th percentile: 11850000.0
+50th percentile: 16200000.0
+75th percentile: 17062500.0
+99th percentile: 19820000.0

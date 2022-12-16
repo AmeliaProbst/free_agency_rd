@@ -1,0 +1,239 @@
+DERWIN JAMES EXAMPLE
+most similar players and contract years...
+56            Mike Adams_2015
+47           Earl Thomas_2014
+11               Ed Reed_2013
+119           Eric Berry_2017
+249          Kevin Byard_2019
+224    Ha-Ha Clinton-Dix_2019
+33         Donte Whitner_2014
+267       Devin McCourty_2020
+30             T.J. Ward_2014
+75             Will Hill_2015
+Name: nameAndContractYear, dtype: object
+25th percentile contract based on similar players...
+10069491.888888733
+50th percentile contract based on similar players...
+11864153.278552402
+75th percentile contract based on similar players...
+12631655.693746418
+99th percentile contract based on similar players...
+15684343.899302762
+100th percentile contract based on similar players...
+16782247.972253956
+
+QUENTON NELSON EXAMPLE:
+most similar players and contract years...
+77          Evan Mathis_2015
+97      Kelechi Osemele_2016
+111         Josh Sitton_2016
+172        Andy Levitre_2018
+6          Andy Levitre_2013
+99          Evan Mathis_2016
+303    Richie Incognito_2019
+185         Josh Sitton_2018
+67           Ben Grubbs_2015
+267      Rodger Saffold_2019
+Name: nameAndContractYear, dtype: object
+25th percentile contract based on similar players...
+11177236.951422492
+50th percentile contract based on similar players...
+13321803.454990074
+75th percentile contract based on similar players...
+13889246.701422667
+99th percentile contract based on similar players...
+16056933.50175112
+100th percentile contract based on similar players...
+17180918.846873697
+
+CHRISTIAN KIRK EXAMPLE
+most similar players and contract years...
+195      Willie Snead_2017
+205     Jarvis Landry_2018
+10         Wes Welker_2013
+60       Randall Cobb_2015
+129       Allen Hurns_2016
+420      Keenan Allen_2020
+423       Cooper Kupp_2020
+131      Doug Baldwin_2016
+128    Danny Amendola_2016
+428      Chris Godwin_2021
+Name: nameAndContractYear, dtype: object
+25th percentile contract based on similar players...
+7803044.1494890535
+50th percentile contract based on similar players...
+8232536.482932916
+75th percentile contract based on similar players...
+10105059.873678336
+99th percentile contract based on similar players...
+18777972.065091774
+100th percentile contract based on similar players...
+20092430.109648198
+
+JAIRE ALEXANDER EXAMPLE:
+most similar players and contract years...
+186       Casey Hayward_2018
+69       Darrelle Revis_2015
+37     Alterraun Verner_2014
+240      Jason McCourty_2019
+303         Byron Jones_2020
+52      Richard Sherman_2014
+121         Josh Norman_2016
+30         Tim Jennings_2014
+55     Patrick Peterson_2014
+230      Jason McCourty_2018
+Name: nameAndContractYear, dtype: object
+25th percentile contract based on similar players...
+5412699.28499907
+50th percentile contract based on similar players...
+9437613.9175925
+75th percentile contract based on similar players...
+16278885.620100101
+99th percentile contract based on similar players...
+18009231.72499956
+100th percentile contract based on similar players...
+19269877.94574953
+
+B.J. HILL EXAMPLE
+most similar players and contract years...
+54         Glenn Dorsey_2014
+149        Nick Fairley_2017
+158           Karl Klug_2017
+207        Mitch Unrein_2018
+414      Steve McLendon_2021
+202        Justin Ellis_2018
+397    Dalvin Tomlinson_2021
+179        David Irving_2017
+263      Henry Anderson_2019
+294         Domata Peko_2019
+Name: nameAndContractYear, dtype: object
+25th percentile contract based on similar players...
+4013935.200533969
+50th percentile contract based on similar players...
+6111694.935784923
+75th percentile contract based on similar players...
+8378394.078231536
+99th percentile contract based on similar players...
+11010576.173259027
+100th percentile contract based on similar players...
+11781316.505387159
+
+MAXX CROSBY EXAMPLE:
+most similar players and contract years...
+372      Shaquil Barrett_2021
+23         Jeremy Mincey_2013
+234             Dee Ford_2019
+137      Charles Johnson_2017
+158    Jason Pierre-Paul_2017
+174        Melvin Ingram_2017
+39        Lamarr Woodley_2014
+148        William Hayes_2017
+3        Anthony Spencer_2013
+21         Rob Ninkovich_2013
+Name: nameAndContractYear, dtype: object
+25th percentile contract based on similar players...
+16653352.090535657
+50th percentile contract based on similar players...
+19564237.198494904
+75th percentile contract based on similar players...
+19768514.709285345
+99th percentile contract based on similar players...
+22175211.38596319
+100th percentile contract based on similar players...
+23727476.182980616
+
+LEONARD FOURNETTE EXAMPLE:
+most similar players and contract years...
+58         Lamar Miller_2016
+95     Jonathan Stewart_2017
+187        LeSean McCoy_2019
+86      Latavius Murray_2017
+4        Steven Jackson_2013
+188     Ezekiel Elliott_2019
+59       DeMarco Murray_2016
+37           Frank Gore_2015
+232           Joe Mixon_2020
+72      Giovani Bernard_2016
+Name: nameAndContractYear, dtype: object
+25th percentile contract based on similar players...
+6103170.69430287
+50th percentile contract based on similar players...
+6305959.8093546
+75th percentile contract based on similar players...
+6892229.57423157
+99th percentile contract based on similar players...
+16889823.80164117
+100th percentile contract based on similar players...
+18072111.46775605
+
+ROQUAN SMITH EXAMPLE:
+most similar players and contract years...
+24       Donald Butler_2014
+55       Curtis Lofton_2015
+383     Neville Hewitt_2021
+89       Nigel Bradham_2016
+315         Nick Vigil_2020
+85         Vincent Rey_2016
+31       Chad Greenway_2014
+65        DeMeco Ryans_2015
+132       Kevin Minter_2017
+38     Craig Robertson_2014
+Name: nameAndContractYear, dtype: object
+25th percentile contract based on similar players...
+3638264.9462364865
+50th percentile contract based on similar players...
+5252373.861400052
+75th percentile contract based on similar players...
+7656024.463354771
+99th percentile contract based on similar players...
+11677792.705389543
+100th percentile contract based on similar players...
+12495238.194766812
+
+KYLER MURRAY EXAMPLE:
+most similar players and contract years...
+19              Matt Ryan_2013
+55     Ben Roethlisberger_2015
+211         Philip Rivers_2020
+249        Deshaun Watson_2020
+63          Philip Rivers_2015
+93             Drew Brees_2016
+160             Matt Ryan_2018
+128            Drew Brees_2018
+46         Peyton Manning_2015
+195            Jared Goff_2019
+Name: nameAndContractYear, dtype: object
+25th percentile contract based on similar players...
+31192866.57910109
+50th percentile contract based on similar players...
+35265813.379108846
+75th percentile contract based on similar players...
+37931521.82913902
+99th percentile contract based on similar players...
+40967801.45950917
+100th percentile contract based on similar players...
+43835547.56167482
+
+DAVID NJOKU EXAMPLE:
+most similar players and contract years...
+68         Jack Doyle_2017
+8       Brandon Myers_2013
+69       Vernon Davis_2017
+80     Anthony Fasano_2017
+45          Zach Ertz_2016
+94      Cameron Brate_2017
+46       Travis Kelce_2016
+252      Hunter Henry_2021
+162        Jared Cook_2019
+53         Ben Watson_2016
+Name: nameAndContractYear, dtype: object
+25th percentile contract based on similar players...
+7617364.084328832
+50th percentile contract based on similar players...
+8410886.203416703
+75th percentile contract based on similar players...
+7865499.266550134
+99th percentile contract based on similar players...
+13012544.90593916
+100th percentile contract based on similar players...
+13923423.049354902
