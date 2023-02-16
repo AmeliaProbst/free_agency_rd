@@ -11,7 +11,7 @@ from scipy import stats
 import numpy as np
 import matplotlib.pyplot as plt
 from sklearn.metrics import silhouette_score
-from dotenv import load_dotenv
+#from dotenv import load_dotenv
 from build_model_WR import *
 import PySimpleGUI as sg
 #import PySimpleGUIWeb as sg
